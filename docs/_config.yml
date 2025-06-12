@@ -1,0 +1,19 @@
+theme: jekyll-theme-minimal
+title: Windscribe VPN Offline Setup Assistant
+description: >-
+  A 100% offline, interactive simulator for the Windscribe VPN desktop client. 
+  Explore features, practice usage, and preview the UI without an internet connection or account.
+
+# SEO Plugin
+plugins:
+  - jekyll-seo-tag
+
+# SEO Settings
+logo: /assets/logo.png
+social:
+  name: Windscribe VPN Offline Setup Assistant
+  links:
+    - https://github.com/Windscribe-VPN-Offline/windscribe-vpn-offline-setup-assistant
+
+# Analytics
+google_analytics: # G-XXXXXXXXXX 

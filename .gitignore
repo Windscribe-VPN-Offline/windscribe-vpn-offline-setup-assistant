@@ -1,0 +1,27 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# sensitive information
+.internal/
+*.internal/
+.env
+*credentials*
+*token*
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+.venv
+venv/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo 
